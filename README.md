@@ -5,6 +5,8 @@
 В свободное время увлекаюсь аквариумистикой, комп.играми, психологией и автомобилями. 
 ## Мое фото
 ![alt text](IMG_8444.JPG)
+![IMG_8444](https://github.com/user-attachments/assets/f5e26607-6afa-41f5-94d8-a728607e3ae8)
+
 ## Контакты
 - Email: natali87st@yandex.com
 - GitHub: [Мой GitHub](https://github.com/NataliSt-pixel)
